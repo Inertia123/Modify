@@ -22,6 +22,10 @@ $Font2: 'Poppins', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
+
 body{
     font-family: $Font2;
 }
